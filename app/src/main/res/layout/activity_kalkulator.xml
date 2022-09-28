@@ -58,7 +58,7 @@
             android:layout_marginTop="12dp"
             android:layout_marginRight="15dp"
             android:elevation="20dp"
-            app:strokeColor="@color/teal_700"
+            app:strokeColor="@color/army_green"
             app:strokeWidth="1dp">
 
             <TextView
@@ -83,7 +83,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="15dp"
                 android:layout_marginTop="15dp"
-                android:backgroundTint="@color/teal_700"
+                android:backgroundTint="@color/black"
                 android:text="+"
                 android:textSize="20dp"
                 app:strokeColor="@color/white"
@@ -107,7 +107,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="5dp"
                 android:layout_marginTop="15dp"
-                android:backgroundTint="@color/teal_700"
+                android:backgroundTint="@color/black"
                 android:text="*"
                 android:textSize="20dp"
                 app:strokeColor="@color/white"
@@ -120,7 +120,7 @@
                 android:layout_marginLeft="5dp"
                 android:layout_marginTop="15dp"
                 android:layout_marginRight="15dp"
-                android:backgroundTint="@color/teal_700"
+                android:backgroundTint="@color/black"
                 android:text="/"
                 android:textSize="20dp"
                 app:strokeColor="@color/white"
